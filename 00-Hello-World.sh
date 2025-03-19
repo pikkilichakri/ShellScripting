@@ -1,5 +1,5 @@
 #!/bin/bash
-: <<COMMENT
+<<COMMENT
 Author: "omnamahshivaya"
 Date: 10-12-2022
 Aim: "To develop automation scripts"
